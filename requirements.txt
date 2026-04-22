@@ -1,0 +1,22 @@
+# Web Framework
+flask==3.0.3
+flask-sqlalchemy==3.1.1
+
+# Machine Learning
+scikit-learn==1.5.1
+xgboost==2.1.1
+imbalanced-learn==0.12.3  # for SMOTE
+
+# Data Processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Model Persistence
+joblib==1.4.2
+
+# Visualization (for EDA notebook)
+matplotlib==3.9.1
+seaborn==0.13.2
+
+# Jupyter (for EDA)
+notebook==7.2.1
